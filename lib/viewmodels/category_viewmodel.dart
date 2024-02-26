@@ -8,7 +8,7 @@ import 'package:n_baz/services/firebase_service.dart';
 import 'package:n_baz/viewmodels/global_ui_viewmodel.dart';
 
 import '../repositories/category_repositories.dart';
-
+// this si category viewmodel
 class CategoryViewModel with ChangeNotifier {
   CategoryRepository _categoryRepository = CategoryRepository();
   List<CategoryModel> _categories = [];

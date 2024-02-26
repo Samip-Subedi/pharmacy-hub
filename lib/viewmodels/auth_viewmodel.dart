@@ -10,7 +10,7 @@ import 'package:n_baz/viewmodels/global_ui_viewmodel.dart';
 import '../models/favorite_model.dart';
 import '../repositories/favorite_repositories.dart';
 import '../repositories/product_repositories.dart';
-
+// this is auth view model
 class AuthViewModel with ChangeNotifier {
   User? _user = FirebaseService.firebaseAuth.currentUser;
 

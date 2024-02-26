@@ -7,7 +7,7 @@ import 'package:n_baz/models/user_model.dart';
 import 'package:n_baz/repositories/auth_repositories.dart';
 import 'package:n_baz/services/firebase_service.dart';
 import 'package:n_baz/viewmodels/global_ui_viewmodel.dart';
-
+// this is single product viewmodel
 import '../repositories/category_repositories.dart';
 import '../repositories/product_repositories.dart';
 

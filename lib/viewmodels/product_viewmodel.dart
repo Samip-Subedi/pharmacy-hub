@@ -9,6 +9,8 @@ import 'package:n_baz/repositories/favorite_repositories.dart';
 import 'package:n_baz/services/firebase_service.dart';
 import 'package:n_baz/viewmodels/global_ui_viewmodel.dart';
 
+// this is product viewmodel
+
 import '../models/favorite_model.dart';
 import '../repositories/category_repositories.dart';
 import '../repositories/product_repositories.dart';

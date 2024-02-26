@@ -1,4 +1,5 @@
 import 'package:flutter/cupertino.dart';
+// this is global ui view model
 
 class GlobalUIViewModel with ChangeNotifier{
   bool _isLoading = false;
