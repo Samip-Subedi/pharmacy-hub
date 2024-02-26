@@ -8,7 +8,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:n_baz/main.dart';
+import 'package:n_baz/main.dart';// this is importing main dart package
 
 // this is the widget testing of this product and the product is 100 % successful
 
@@ -17,13 +17,15 @@ void main() {
     // Build our app and trigger a frame.
     await tester.pumpWidget(const MyApp());
 
-    // Verify that our counter starts at 0.
+    // It verifies that Our counter starts at 0
     expect(find.text('0'), findsOneWidget);
     expect(find.text('1'), findsNothing);
 
-    // Tap the '+' icon and trigger a frame.
+
+    // to trigger a frame tap the '+ ' icon
     await tester.tap(find.byIcon(Icons.add));
     await tester.pump();
+
 
     // Verify that our counter has incremented.
     expect(find.text('0'), findsNothing);
