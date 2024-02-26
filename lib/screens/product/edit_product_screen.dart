@@ -9,7 +9,7 @@ import '../../viewmodels/auth_viewmodel.dart';
 import '../../viewmodels/category_viewmodel.dart';
 import '../../viewmodels/global_ui_viewmodel.dart';
 import '../../viewmodels/single_product_viewmodel.dart';
-
+// this is edit product screen
 class EditProductScreen extends StatefulWidget {
   const EditProductScreen({Key? key}) : super(key: key);
 

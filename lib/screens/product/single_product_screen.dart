@@ -6,7 +6,7 @@ import 'package:provider/provider.dart';
 
 import '../../viewmodels/global_ui_viewmodel.dart';
 import '../../viewmodels/single_product_viewmodel.dart';
-
+// this is single product screen
 class SingleProductScreen extends StatefulWidget {
   const SingleProductScreen({Key? key}) : super(key: key);
 
