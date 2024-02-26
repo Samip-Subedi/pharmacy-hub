@@ -4,6 +4,8 @@ import 'package:firebase_core/firebase_core.dart' show FirebaseOptions;
 import 'package:flutter/foundation.dart'
     show defaultTargetPlatform, kIsWeb, TargetPlatform;
 
+// this is the fireabse options dart to operates the firebase account from here
+
 /// Default [FirebaseOptions] for use with your Firebase apps.
 ///
 /// Example:

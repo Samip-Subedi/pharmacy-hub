@@ -17,6 +17,8 @@ import 'package:n_baz/viewmodels/category_viewmodel.dart';
 import 'package:n_baz/viewmodels/global_ui_viewmodel.dart';
 import 'package:n_baz/viewmodels/product_viewmodel.dart';
 import 'package:provider/provider.dart';
+// this is the main dart where every function is connected with it and every thing is done in this main dart
+// and this main dart is the main file is this should run while runing project
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
