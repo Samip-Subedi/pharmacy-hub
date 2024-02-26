@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import '../../services/local_notification_service.dart';
 import '../../viewmodels/auth_viewmodel.dart';
 import '../../viewmodels/global_ui_viewmodel.dart';
+// this is register screen
 
 class RegisterScreen extends StatefulWidget {
   const RegisterScreen({Key? key}) : super(key: key);
