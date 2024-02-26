@@ -1,4 +1,6 @@
 # n_baz
+// this is the product which help the solving real life project in the pharmacy 
+// By managing every medicine in different categpry according to that 
 
 A new Flutter project.
 
