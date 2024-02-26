@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "355759098525",
+    "firebase_url": "https://medify-d65f6-default-rtdb.firebaseio.com",
+    "project_id": "medify-d65f6",
+    "storage_bucket": "medify-d65f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355759098525:android:36bafda040f7346ca3e274",
+        "android_client_info": {
+          "package_name": "com.example.medmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARTW7q0NWbXLPJ_bFn1rSsuwbvnEcCOC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
