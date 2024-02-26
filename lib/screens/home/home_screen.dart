@@ -8,6 +8,7 @@ import 'package:n_baz/viewmodels/product_viewmodel.dart';
 import 'package:provider/provider.dart';
 
 import '../../viewmodels/global_ui_viewmodel.dart';
+// this is home screen
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

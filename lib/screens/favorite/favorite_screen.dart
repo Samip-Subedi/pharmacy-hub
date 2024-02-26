@@ -6,6 +6,7 @@ import 'package:provider/provider.dart';
 import '../../models/favorite_model.dart';
 import '../../viewmodels/global_ui_viewmodel.dart';
 
+// this is favourite screen
 class FavoriteScreen extends StatefulWidget {
   const FavoriteScreen({Key? key}) : super(key: key);
 

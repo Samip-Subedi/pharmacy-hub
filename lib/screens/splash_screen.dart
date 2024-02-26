@@ -5,6 +5,8 @@ import 'package:provider/provider.dart';
 
 import '../services/local_notification_service.dart';
 
+// this is splash screen
+
 class SplashScreen extends StatefulWidget {
   const SplashScreen({Key? key}) : super(key: key);
 
