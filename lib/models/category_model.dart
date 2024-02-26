@@ -1,7 +1,7 @@
 // To parse this JSON data, do
 //
 //     final categoryModel = categoryModelFromJson(jsonString);
-
+ // This is the category model
 import 'dart:convert';
 import 'package:cloud_firestore/cloud_firestore.dart';
 

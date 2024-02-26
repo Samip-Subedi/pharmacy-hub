@@ -2,6 +2,7 @@
 //
 //     final productModel = productModelFromJson(jsonString);
 
+// this is the product model
 import 'dart:convert';
 
 import 'package:cloud_firestore/cloud_firestore.dart';

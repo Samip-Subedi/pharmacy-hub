@@ -1,7 +1,7 @@
 // To parse this JSON data, do
 //
 //     final favoriteModel = favoriteModelFromJson(jsonString);
-
+ // This is the favourite model
 import 'dart:convert';
 
 import 'package:cloud_firestore/cloud_firestore.dart';

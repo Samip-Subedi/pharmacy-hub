@@ -1,7 +1,7 @@
 // To parse this JSON data, do
 //
 //     final userModel = userModelFromJson(jsonString);
-
+ // This is the user model
 import 'dart:convert';
 
 import 'package:cloud_firestore/cloud_firestore.dart';
