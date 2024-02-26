@@ -6,6 +6,8 @@ import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:http/http.dart' as http;
 
+// this is teh local notification service where you can get notification after relogin and rejoining with
+
 class NotificationService{
   static final FlutterLocalNotificationsPlugin _notificationsPlugin
   = FlutterLocalNotificationsPlugin();
