@@ -6,6 +6,7 @@ import '../models/category_model.dart';
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
 
+ // This is the favourite repository
 class FavoriteRepository{
   CollectionReference<FavoriteModel> favoriteRef = FirebaseService.db.collection("favorites")
       .withConverter<FavoriteModel>(

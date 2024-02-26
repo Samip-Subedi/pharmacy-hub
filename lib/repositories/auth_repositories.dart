@@ -3,6 +3,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
+// This is the auth repository
 
 class AuthRepository{
   CollectionReference<UserModel> userRef = FirebaseService.db.collection("users")

@@ -5,6 +5,7 @@ import 'package:n_baz/models/product_model.dart';
 import '../models/category_model.dart';
 import '../models/user_model.dart';
 import '../services/firebase_service.dart';
+// this is the product repository
 
 class ProductRepository {
   CollectionReference<ProductModel> productRef = FirebaseService.db.collection("products").withConverter<ProductModel>(
